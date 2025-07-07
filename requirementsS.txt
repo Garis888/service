@@ -1,0 +1,5 @@
+pika
+pydantic_settings
+redis
+loguru
+requests

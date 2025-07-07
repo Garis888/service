@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+pydantic
+pydantic_settings
+python-dotenv
+redis
+dependency_injector
+python-jose
+starlette
+loguru
+aio-pika

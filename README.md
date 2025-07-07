@@ -1,2 +1,2 @@
-# service
-Тестовое задание
+docker compose build
+docker compose up -d
